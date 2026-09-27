@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "description": "The exact 12 videos used by this Aletheia checkout.",
+  "base_url": null,
+  "files": [
+    {
+      "path": "day_01/cam_00/hour_00.mp4",
+      "size": 57556234,
+      "sha256": "0342ec9903f63670fb7a8f6defddd65b8f9f3c509de50880f06b0eff414e2a9f",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_01_cam_00_hour_00.mp4"
+    },
+    {
+      "path": "day_01/cam_00/hour_01.mp4",
+      "size": 57946238,
+      "sha256": "2a29c0dd021e9dc25672d6385bfa3ba9fc6a19239f65422598f016594ce64bd2",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_01_cam_00_hour_01.mp4"
+    },
+    {
+      "path": "day_01/cam_01/hour_00.mp4",
+      "size": 40053192,
+      "sha256": "e194d24a6076541339ee46fa3be46c28acd310871477d1e2ebab46191ecd38aa",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_01_cam_01_hour_00.mp4"
+    },
+    {
+      "path": "day_01/cam_01/hour_01.mp4",
+      "size": 44167913,
+      "sha256": "84be54d8628d32e3375d409264a2af6073c2e99fc220044ed88351b55f2b170d",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_01_cam_01_hour_01.mp4"
+    },
+    {
+      "path": "day_01/cam_02/hour_00.mp4",
+      "size": 40797105,
+      "sha256": "0a779aa555376ff06d6a3050711e05e1a5404601a39a745ea7eceaeebf45f267",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_01_cam_02_hour_00.mp4"
+    },
+    {
+      "path": "day_01/cam_02/hour_01.mp4",
+      "size": 51562861,
+      "sha256": "c1e4cae7f5d31a0d9921047272ca4f94de13ee5c85005585559c04f419d1dafd",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_01_cam_02_hour_01.mp4"
+    },
+    {
+      "path": "day_02/cam_00/hour_00.mp4",
+      "size": 51722743,
+      "sha256": "4d8ca79d84a3cee02f271ceb50263d229e23a4a4041e5ca2b9f1c3d04d6c2599",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_02_cam_00_hour_00.mp4"
+    },
+    {
+      "path": "day_02/cam_00/hour_01.mp4",
+      "size": 52999268,
+      "sha256": "32155c56f06c91ef8606d03149835e162054abf073495360a443a14a636884d3",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_02_cam_00_hour_01.mp4"
+    },
+    {
+      "path": "day_02/cam_01/hour_00.mp4",
+      "size": 47113446,
+      "sha256": "559c4b55a977a9b5bb0e3f5b8cbf0f2cac9a3b2731fa288aacbac55351598b88",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_02_cam_01_hour_00.mp4"
+    },
+    {
+      "path": "day_02/cam_01/hour_01.mp4",
+      "size": 45593970,
+      "sha256": "df066a73f248ef662c724b1b20235e03b4d877be95012086c9ca4615a155dde8",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_02_cam_01_hour_01.mp4"
+    },
+    {
+      "path": "day_02/cam_02/hour_00.mp4",
+      "size": 47022385,
+      "sha256": "4658d598b3b786300978045dc194f97a02c667db2a216127505f456057189083",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_02_cam_02_hour_00.mp4"
+    },
+    {
+      "path": "day_02/cam_02/hour_01.mp4",
+      "size": 49465123,
+      "sha256": "11eda77c94c87f7ea1d3915b3caaabcd592f11cf44e27b9564b245d85b879406",
+      "url": "https://github.com/Ch-Jiale/Aletheia-datasets/releases/download/datasets-v1/day_02_cam_02_hour_01.mp4"
+    }
+  ]
+}
